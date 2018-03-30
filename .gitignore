@@ -1,0 +1,8 @@
+.buildpath
+.settings
+.project
+nbproject
+tools/scripts/*.csv
+vendor
+vendor/
+

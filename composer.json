@@ -1,0 +1,17 @@
+{
+    "name": "9naquame/jpgraph",
+    "description": "Unoffical jpgraph repository",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nana Kwame",
+            "email": "9naquame@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "include-path" : [
+        "src"
+    ]
+}
